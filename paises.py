@@ -47,7 +47,7 @@ paises = [
     }
 ]
 
-# IMPRESIÓN
+# impresion
 
 for pais in paises:
     print("Ciudades Principales:")
